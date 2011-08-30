@@ -1,0 +1,15 @@
+---
+categories: Other
+date: 2010/10/25 06:25:17
+title: Hello World
+---
+I have tested a lot of different blog software.
+But just like with mail-clients: every single one sucks. :)
+
+Some month ago I finally found one that sucks considerably less than anything else I tested: blogofile.
+Unfortunately I really didn't want to spend any time making a proper template to get started, so I let it rot on my webserver.
+Now I finally had some time and muse to finally get it done, and there it is.
+
+The layout is probably unfinished and will receive changes, but it's good enough to get started.
+
+I will try to get stuff to my projects and everything else posted here from now on.
