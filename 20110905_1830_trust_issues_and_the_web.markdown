@@ -23,3 +23,8 @@ But there are some concepts:
 
 Sadly, all of those come with some effort and are not available for every browser, let alone on every machine.
 I will evaluate these and probably other solutions in the next time, and report back.
+
+Update: I forgot to mention this before: the whole situation is actuall _that bad_, that google decided to _hard-code_ certificates (or probably their fingerprints) [in Chrome](http://dev.chromium.org/sts), something [Noscript](http://noscript.net/) apparently does, too.
+This is a horrible concept, but it seems the only way to make the CA system work as it is.
+
+Of course, in the long run, it would mean, that _every single certificate_ would have to be hard-coded in _every single browser(engine)_ and every CA would have to be distrused. Certainly no system that is desirable.
