@@ -1,5 +1,5 @@
 ---
-categories: Reviews, Other
+categories: Other
 date: 2011/04/03 19:00:00
 title: Blackburn Flea Review
 ---
