@@ -1,7 +1,7 @@
 ---
 categories: Other
 date: 2011/09/11 18:00:00
-title: Trust issues (and the web), 02: Web Of Trust
+title: Trust issues (and the web), 02 - Web Of Trust
 ---
 
 In my [last post](http://tg.gstaedtner.net/2011/09/05/trust-issues-(and-the-web)) I promised that I would check out some of the solutions that promise a safer and thus better web.
