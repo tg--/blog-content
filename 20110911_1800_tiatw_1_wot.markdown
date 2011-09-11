@@ -1,0 +1,56 @@
+---
+categories: Other
+date: 2011/09/11 18:00:00
+title: Trust issues (and the web), 02: Web Of Trust
+---
+
+In my [last post](http://tg.gstaedtner.net/2011/09/05/trust-issues-(and-the-web)) I promised that I would check out some of the solutions that promise a safer and thus better web.
+
+
+Let's start with [Web Of Trust](http://www.mywot.com/) (WOT).
+
+In contrast to some of the other things I plan to take a closer look at, WOT is not related to transport security or any cryptographic methods to ensure site integrity.
+
+It actually works like [Mandatory Access Controls (MAC)](http://en.wikipedia.org/wiki/Mandatory_access_control) with a user centric (as apposed to a system centric) approach.
+
+
+### How does it work?
+WOT is a combination of client side software, usually a brower plugin (who would have guessed :P), and a central database that contains per-domain based ratings, provided by users as well as "trusted sources".
+The latter are (well-known) security sources, such as blacklists from security vendors, and similar material.
+
+
+The browser plugin, which exists at least for Firefox and Chrome, is available under GPLv3.
+It checks every domain, that is either querried or linked to, against the WOT central database and aquires a rating based on the previously mentioned sources.
+
+Feedback is given to the user via an easily visible graphical indicator (green = good, yellow = so-so, red = bad, grey = no rating yet), as well as an warning dialog (per default) that shows up on untrusted sites.
+
+It can also be set to block access to unwanted sources, e.g. as a porn-filter.
+
+The ratings are based on an algorithm, partially comparable to mechanisms such as Google's pagerank: It doesn't only count and divide the ratings to generate an average; instead different sources have different weight, and if there are only a few ratings and maybe not the most credible ones, no general rating is given at all.
+#### Upsides
+
+ - users can easily decide if a site might be trouble
+ - very little performance impact
+ - very practical and easily usable
+ - good protection against malicious-by-design sites
+
+#### Downsides
+
+ - does not prevent any serious attacks (MITM and Co.)
+ - does not confirm the authenticity of sites
+ - does not detect compromised sites
+ - serious privacy impact: every domain is transmitted to the WOT servers
+
+### Conclusion
+
+All in all, I'd say WOT can be very helpful.
+
+However, you really should consider if the service is worth the loss of privacy, as every domain is transmitted to WOT servers along with your IP which makes you relatively identifiable.
+This usually happens only once per domain, as it is cached afterwards; also, only the domain, not the URL is transmitted. You should take into account, that your IP and all domains you access are logged on the route multiple times anyway, at your ISP at first, but at several routing points as well - so this is clearly a cost--benefit equation you have to do for yourself.
+
+
+I would however recommend this service to each and every user that has trouble detecting which sites are bad, that includes subscription traps (largely a German problem I guess, here called "Abofalle"), and Freeware download sites. I think here clearly the downsides are neglegible so I would - and will - recommend this to people like my mother.
+
+
+Lastly, the company behind WOT is in legal trouble with some US companies which claim, that the algorithm behind the WOT rating, is flawed. This is, in my opinion, the proof, that the algorithm works pretty well. If hosters of dubious sites use the courts, it generally means they haven't found an easy way to manipulate their ratings.
+And as the "crowd" ratings get the higher weight, no source credible enough to improve ones rating can be bought.
