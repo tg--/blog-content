@@ -14,7 +14,7 @@ I wanted to try systemd for a while but never really was in the mood to do the a
 Installing systemd is incredibly straight-forward, just read the gentoo-wiki articles and make sure you have your "init scripts" (or .service files in systemd jargon) ready. Enough talk, just let me finish with this: I was utterly impressed how well systemd works and I'm looking forward to it replacing all other init systems currently out there (including OpenRC which I actually liked).
 But look for yourself:
 
-<video width="800" controls="controls">
+<video width="100%" controls="controls">
  <source src="http://videos.gstaedtner.net/linux/x200s_fastboot.webm" type="video/webm" />
  Your browser does not support the video tag.
 </video>
