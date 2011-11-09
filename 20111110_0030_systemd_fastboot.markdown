@@ -19,4 +19,14 @@ But look for yourself:
  Your browser does not support the video tag.
 </video>
 
+###Some stats:
+	Linux version 3.1  
+	systemd version 37  
+	udev 175
+
+	Linux -> systemd: ~1s  
+	systemd -> e17: ~1s  
+	e17 -> ready: ~1.5s
+
+
 If you have questions or need config files, just ping me via mail/jabber/irc.
