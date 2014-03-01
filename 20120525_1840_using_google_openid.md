@@ -1,4 +1,5 @@
 tags: other
+category: tricks
 date: 2012-05-25 18:40:00
 title: Using a google account as OpenID
 

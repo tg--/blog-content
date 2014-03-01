@@ -1,4 +1,5 @@
 tags: gentoo, enlightenment
+category: personal
 date: 2011-11-10 00:30:00
 title: Moving to systemd
 

@@ -1,4 +1,5 @@
 tags: projects
+category: projects
 date: 2010-11-08 01:55:00
 title: sftool - initial release
 

@@ -1,4 +1,5 @@
 tags: gentoo, pyneo
+category: projects
 date: 2010-11-14 14:10:00
 title: Pyneo for Gentoo
 
