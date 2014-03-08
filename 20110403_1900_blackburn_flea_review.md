@@ -15,14 +15,14 @@ As I was pretty happy with the devices, I decided to replace the missing one and
 There are two main differences introduced in 2010 and 2011: The USB-Charger was introduced in 2010 and replaces the included battery-charger so you can recharge the lights on any 5V DC power supply over an USB port. New in 2011 is an additional led under the lights buttons that shows the charging state.
 
 Here's a picture showing the new USB-Charger on the left and the old battery charger (that can be attached by magnets to any standard battery) on the right:
-![Chargers](http://images.gstaedtner.net/cache/bike/flea/chargers_connected_595.jpg)
+![Chargers](//images.gstaedtner.net/cache/bike/flea/chargers_connected_595.jpg)
 
 The chargers attach to the devices by 2 magnetic pins that are quite strong, so you can safely put it in any USB port without fearing it might fall off, and you can attach any battery without having to care if the contacts are attached right. What's really amazing however is, that the charging electronics is **inside** the lights housings so you can use any DC source from about 1 to 5 V without any additional electronics. It even allows to attach a solar panel with USB connector (Blackburn themselves offer one, but there's a ton of other similar devices on the market).
 With the 2011 edition the new colored LEDs indicate the battery status and also when charging is complete.
 
 ## Attachment
 
-Here's the complete set including straps and USB Charger: ![Flea Set](http://images.gstaedtner.net/cache/bike/flea/set_complete_595.jpg)
+Here's the complete set including straps and USB Charger: ![Flea Set](//images.gstaedtner.net/cache/bike/flea/set_complete_595.jpg)
 
 As you can see on the pictures, the back-light has a clip that is not only used to attach it to one of the straps, you can also clip it to a belt or backpack which I find useful (great if you have a big backpack that might hide a light attached to the saddle, or if you're hiking without a bike at all).
 If you pull the strap tight enough, it works well and you can attach the light safely, and it stays in place.
@@ -44,8 +44,8 @@ If you bike for fun and need a pair of good, light and practical lights, or just
 
 I've made some photos in total darkness, no artificial light (besides the Flea) around, no moon and clouded sky without stars, to give you an impression how bright the lights are.
 The pictures are **slightly** overexposed, so they seem a little brighter than they actually are, but it still is close to how you actually would see it:
-![Front light](http://images.gstaedtner.net/cache/bike/flea/action_front_595.jpg)
-![Back light](http://images.gstaedtner.net/cache/bike/flea/action_rear_595.jpg)
+![Front light](//images.gstaedtner.net/cache/bike/flea/action_front_595.jpg)
+![Back light](//images.gstaedtner.net/cache/bike/flea/action_rear_595.jpg)
 
 ## Conclusion
 
