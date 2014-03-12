@@ -17,7 +17,7 @@ Enough talk, just let me finish with this: I was utterly impressed how well syst
 But look for yourself:
 
 <video width="100%" controls="controls">
- <source src="//videos.gstaedtner.net/linux/x200s_fastboot.webm" type="video/webm" />
+ <source src="//gstaedtner.net/videos/linux/x200s_fastboot.webm" type="video/webm" />
  Your browser does not support the video tag.
 </video>
 
