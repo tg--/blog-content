@@ -46,14 +46,18 @@ Also, getting the tires to pop into the bead was harder than I expected. Even wi
 The trick to use soapy water to make it easier turned out to be a really good one. It still took me a while (longer than I care to admit), but in the end both tires popped and it seems to hold.
 It probably really isn't worth to go for expensive fitting fluid, but if you're having trouble, soapy water really seems to do the trick.
 
-So in the end, everything fits, the two sets of wheels really give me a lot of flexibility without having to own two bikes and thanks to the quick releasy I can exchange them within a minute.
+So in the end, everything fits, the two sets of wheels really give me a lot of flexibility without having to own two bikes and thanks to the quick releas I can exchange them within a minute.
 The tubeless setup seems to hold so far, though some testing remains to be done.
 I haven't tried it in heavy terrain yet, but the wheels seem to be really good and roll off easy, and the whole setup seems to be quite OK.
+The bike still handles nice, and off road, the wide tires really feel and handle much more comfortably.
+
 
 If you decide to convert your (cross) road bike to a MTB, I think this setup is a good way to do it, and if you do the necessary measuring, you too will be successfull.
+
+All in all, the new wheels cost me about EUR 450 - not cheap, but certainly cheaper than a new bike. If it was worth it? Time will tell.
 
 Last but not least, a before and after picture:
 <img src="//gstaedtner.net/images/bike/P100710_03.jpg" alt="Old 622 mm wheels" width="100%"/>
 <img src="//gstaedtner.net/images/bike/IMG_20140829_165207.jpg" alt="New 584 mm wheels" width="100%"/>
 
-A few closeups are in my gallery: //gstaedtner.net/images/bike
+A few closeups are in [my gallery](//gstaedtner.net/images/bike).
