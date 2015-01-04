@@ -10,12 +10,14 @@ But how to find it?
 Turns out this is usually really easy!
 
 # Needed:
+
 - Device
 - Multimeter with 2 probes
 
 # How?
 Usually the UART interfaces are extremely simple and operate at 3.3 V.
 Basically you need only 3 contact points on the board for a full console.
+
 - TxD: This is where the board sends data
 - RxD: This is where it receives
 - GND: Just a grounded connection  
@@ -35,10 +37,11 @@ If the steps are successfull you very likely have found your UART interface!
 # Moving on
 Now to find out if it really is an UART and to access the interface, you'll to connect via a serial console program. It's however not as easy as just attaching your RS232 adapter, because it operates at 5 Volts.  
 Instead you'll either need a level shifter, or easier, a integrated device that does this for you.
-I'm using a [bus pirate](http://dangerousprototypes.com/docs/Bus_Pirate), a inexpensive and really nifty device that is usful in a lot of other situations.  
+I'm using a [bus pirate](http://dangerousprototypes.com/docs/Bus_Pirate), a inexpensive and really nifty device that is useful in a lot of other situations.  
 
 Just connect the TxD, RxD and GND pins to the devices appropriate connectors. Again, you won't need VCC, so don't connect it.
 To find out the baud rate, its easiest just to guess try. Fast devices will often use 115200 bauds, other than that 9600 and 38400 bauds are very common.
 
 I've made a little sketch that shows you what this will look like on many devices.
+The black dot would be a GND point, below the 2 drill holes.
 <img src="//gstaedtner.net/images/sonstiges/uart.jpg" alt="UART" width="100%"/>
